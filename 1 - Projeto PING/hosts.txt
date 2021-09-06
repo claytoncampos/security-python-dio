@@ -1,0 +1,5 @@
+www.google.com
+8.8.8.8
+www.globo.com.br
+www.terra.com.br
+162.168.0.1
